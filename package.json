@@ -1,0 +1,16 @@
+{
+  "name": "markdown2pdf",
+  "version": "1.0.0",
+  "description": "md2pdf",
+  "main": "config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "html-pdf": "^2.2.0",
+    "markdown-to-html": "0.0.13"
+  }
+}
